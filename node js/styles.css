@@ -1,0 +1,10 @@
+
+.parent {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+
+.parentgrid  {
+  grid-template-columns: repeat(auto-fit)
+}
