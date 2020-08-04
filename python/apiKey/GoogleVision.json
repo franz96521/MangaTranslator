@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fine-jetty-284123",
+  "private_key_id": "6dcb853513c0df832a8c8dad81f2b73408196048",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmrIBGUusbWY1J\nq7qILri9Puxmy0w7snpuS16vwWFYS+oaPS/rJM/ljwuk1pF5fjDuLn+kcECiYdBP\nd9DN+VZGMZdFt/yomZzD6/mrOmNb00++YIVR7lxyKwEEUSw1ReJzmC7FelbMzbLY\nUVDg6WpnIp+tqiObtM/yOcZVEQXjF7WnmPRE0dWg+SUuNFIbnFgfi9jGGJVqITY4\nuy4nbNV0pSKh0QyxUN488Ztmdy7rudAHb832g+F3N58LX/gD6JLaz9zy0Cnetp6p\nGuqgsER3HzZJKI5ZWctDA3e4ROo1y5rHRL/ghVEZbATjtLY8Aa5ID1KwvNUHuxns\nbR99KJnvAgMBAAECggEAK7heIZRIlbEE7ck9MdHHpeSmkERNp+8mTF465TF9vnKT\nYvSf6DeMzTObo06hdFQUs7XAx7qmSbIMuXu9avo3lkwV2TTs8rDwvTfeEvtK6uBg\nL5kT/6zd1RjQuHgud37watAFnMl9kVV3z2RtKcIwpgMgDabulj50uZ5MFy5S9AFs\nrFF209dKCOnozb90VxgP6sCkFm9HYjL0vtUAW/NrUJZhHRE+Mz8RUf5nVOSx+0yY\nk+FoyAnklcO7G7cMzdGqYqrqJlM2C8QYEfc+nWa5wVkpwA9YMkzNY2o0XiByHlbw\nzSqQ0WYrX20p9c7k2rJjJ7GjpvsCKAs8NvDY/+kpyQKBgQDX8K5ptEeF/bZ0sNB1\nQprZu1qmU3oEpVWlQ7a2J6/PIT7QdvTv0eTVkcM8h3KppdCDuaH3l0O9gyT5vMmB\nEKSbyESwGNloR0mrcWx8ay0q5x9dW3uSbSsmdXCYRa0wWAVCMWurKtwU2r2Q/FmJ\natfOellgZS9EbipWOLTsuJgJ6wKBgQDFmBa1E0k43ZdlhCHRSKBqcIOYHGgvNRJ3\nLtwf8jhd/fTtMkFuP2EBddQ2aBBYqH/aZEK51VC4ZakciWRY06EBFucDjb5mtX1N\nquwOzevy270lliv5nqRhddqX9qN092rGqWzCoMxaWLvN/3AaSIAkmeQt8PkUW/QW\nRdlZA0kLDQKBgCCHEL67eUqlvSY2vC/tqIXDwxPq3yZ0AUKzwIIP2FvLFjswsBSv\n+VhybIZhoNQNNiuhetRg5MNXTeqQlYnrh+AveqlMFPOwSViZ7U2Ql20vA3p8nVCh\nQS654gwN8tilaaVe7GkMO7qoeIWufY5FmdxwcaYjl8snDRmP0TEXXU+hAoGBAILL\n+EwI5jFkTbF/U7trrfSHYjSwqS6GnSCTvlbPSgy97QGOgM1v2tDSpJUXMarebzOr\nppfI4tQNR3KCaBB8lllYRbeOfnkSrk1ZVUU/fm6WkpBs5dMo9nslPnvVYcItfVrg\nEASN2Hf9wOPNsPFVCK4xyF+44cheTiboOcW4bQOJAoGBAKKyI6UmU6QEodBdVVOu\nMpyczHN+d/BSFsZlT4gOJHCIowmbyfMxRmxhdPM7YE6ZPyr+A0HWaU5T2RGKL3Z/\nZGCSN5F+0y/1ganwu76tduQBTtSs0thAp7MzKukeClo+kl9cq70LvIfD/G4nNf47\nyT185cRtbLCKkGwopZyBXZjH\n-----END PRIVATE KEY-----\n",
+  "client_email": "mangatranslator@fine-jetty-284123.iam.gserviceaccount.com",
+  "client_id": "117205417194402616477",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mangatranslator%40fine-jetty-284123.iam.gserviceaccount.com"
+}

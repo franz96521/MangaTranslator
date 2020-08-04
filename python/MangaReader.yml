@@ -1,0 +1,9 @@
+name: MangaTranslator
+
+dependencies:
+    - python=3.8
+    - pip>=20.0
+    - pip:
+        - google-cloud-vision
+        - Pillow
+        - pandas
